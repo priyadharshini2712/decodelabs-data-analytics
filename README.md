@@ -1,2 +1,2 @@
 # decodelabs-data-analytics
-Data Analytics Intrenship Projects - DecodeLabs 
+Data Analytics Internship Projects - DecodeLabs 
