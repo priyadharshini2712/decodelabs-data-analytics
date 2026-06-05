@@ -1,0 +1,7 @@
+Change_ID,Description,Impact,Status
+CR001,Filled 309 missing CouponCode values,"Filled with ""NO_COUPON"" - no coupon used",Resolved
+CR002,Checked for duplicate OrderIDs,0 duplicates found and removed,Resolved
+CR003,Standardized Date column to ISO 8601 (YYYY-MM-DD),Consistent date format across all records,Resolved
+CR004,Applied Proper Case & stripped whitespace to text columns,"Standardized Product, PaymentMethod, OrderStatus, etc.",Resolved
+CR005,Standardized UnitPrice & TotalPrice to 2 decimal places,Consistent numeric precision,Resolved
+CR006,Verified TotalPrice = Quantity × UnitPrice,0 mismatches flagged for review,Resolved
